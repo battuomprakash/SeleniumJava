@@ -21,8 +21,8 @@ public class Login {
   }
   
   @Test
-  public void Facebook() {
-	  driver.get("https://www.facebook.com");
+  public void Twitter() {
+	  driver.get("https://www.x.com");
 	  
   }
 
