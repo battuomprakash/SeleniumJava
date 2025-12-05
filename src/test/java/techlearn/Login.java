@@ -9,14 +9,14 @@ public class Login {
 	WebDriver driver;
   @Test
   public void TechlearnLogin() {
-	  driver.get("https://www.techlearn.in");
+	  driver.get("https://www.techlearn.in/admin");
 	  
   }
   
   @Test
   public void Google() {
 	  driver.get("https://www.google.com");
-	  driver.findElement(By.name("q")).sendKeys("Hello_GitHub");
+	  driver.findElement(By.name("q")).sendKeys("Hello_Selenium");
 	  
   }
   
