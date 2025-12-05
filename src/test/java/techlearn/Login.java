@@ -9,7 +9,7 @@ public class Login {
 	WebDriver driver;
   @Test
   public void TechlearnLogin() {
-	  driver.get("https://www.techlearn.in/admin");
+	  driver.get("https://www.techlearn.in");
 	  
   }
   
