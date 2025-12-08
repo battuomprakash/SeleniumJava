@@ -17,7 +17,7 @@ public class Login {
   @Test
   public void Google() {
 	  driver.get("https://www.google.com");
-	  driver.findElement(By.name("q")).sendKeys("Hello_Selenium");
+	  driver.findElement(By.name("q")).sendKeys("Hello_Prakash");
 	  
   }
   
