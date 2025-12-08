@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeTest;
 
 public class Register {
   @Test
-  public void f() {
+  public void Techlearn() {
   }
   @BeforeTest
   public void beforeTest() {
