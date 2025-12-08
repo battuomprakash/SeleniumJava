@@ -6,7 +6,7 @@
       <class name="techlearn.Login">
         <methods>
           <include name="beforeTest"/>
-          <include name="TechlearnLogin"/>
+          <include name="Twitter"/>
         </methods>
       </class> <!-- techlearn.Login -->
     </classes>
