@@ -12,6 +12,7 @@ public class Demo {
   }
   @BeforeTest
   public void beforeTest() {
+	  driver = new ChromeDriver();
 	  
   }
 
